@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://platolearning.ca"
+baseURL = "https://dev.platolearning.ca"
 title = "Plato Learning | Luscinia"
 theme = "educenter-hugo"
 # post pagination
