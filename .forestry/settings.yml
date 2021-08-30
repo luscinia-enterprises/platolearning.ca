@@ -6,9 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: ''
-  label: data/en/*
+  label: data
   create: all
-  match: "**/*"
+  match: data/en/*
 - type: directory
   path: content/english
   label: English
